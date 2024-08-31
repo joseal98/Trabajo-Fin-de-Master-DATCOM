@@ -1,0 +1,12 @@
+# requirements.txt
+
+opencv-python
+librosa
+torch==2.3.0
+torchaudio==2.3.0
+facenet-pytorch
+ftfy
+tqdm
+regex
+git+https://github.com/openai/CLIP.git
+wandb
